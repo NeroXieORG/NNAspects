@@ -1,0 +1,21 @@
+PODS:
+  - NNAspects (1.0.0):
+    - NNAspects/Core (= 1.0.0)
+    - NNAspects/libffi (= 1.0.0)
+  - NNAspects/Core (1.0.0):
+    - NNAspects/libffi
+  - NNAspects/libffi (1.0.0)
+
+DEPENDENCIES:
+  - NNAspects (from `../`)
+
+EXTERNAL SOURCES:
+  NNAspects:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NNAspects: 2f04a5935d7602da59aa5a3724780929ef767fd4
+
+PODFILE CHECKSUM: bc5a1e380d21281c7788c9822df7f51a35002187
+
+COCOAPODS: 1.16.2

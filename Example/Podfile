@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'NNAspects_Example' do
+  pod 'NNAspects', :path => '../'
+
+  target 'NNAspects_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
