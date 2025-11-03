@@ -1,10 +1,14 @@
 # NNAspects
 
-[![CI Status](https://img.shields.io/travis/17306472/NNAspects.svg?style=flat)](https://travis-ci.org/17306472/NNAspects)
+<!--[![CI Status](https://img.shields.io/travis/17306472/NNAspects.svg?style=flat)](https://travis-ci.org/17306472/NNAspects)-->
 [![Version](https://img.shields.io/cocoapods/v/NNAspects.svg?style=flat)](https://cocoapods.org/pods/NNAspects)
 [![License](https://img.shields.io/cocoapods/l/NNAspects.svg?style=flat)](https://cocoapods.org/pods/NNAspects)
 [![Platform](https://img.shields.io/cocoapods/p/NNAspects.svg?style=flat)](https://cocoapods.org/pods/NNAspects)
 
+## 安装
+```
+pod 'NNAspects'
+```
 ## 使用
 
 ```objc
